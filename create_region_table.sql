@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS region(
+    id INT AUTO_INCREMENT,
+    name VARCHAR(200),
+    PRIMARY KEY(id)
+);
+
